@@ -1,0 +1,175 @@
+Assignment Week 4 - Merged Mean Data - Code Book
+
+DATA DICTIONARY
+
+subject 	1
+	Code identifying subject from trial.  30 subjects participated in total.
+
+activity_code	18
+	Label indicating what activity the subject was performing when measurement taken
+		1. LAYING
+		2. SITTING
+		3. STANDING
+		4. WALKING
+		5. WALKING_DOWNSTAIRS
+		6. WALKING_UPSTAIRS
+		
+The remaining variables in the file are the mean and standard deviation measures collected from the accelerometer and gyroscope 3-axial raw signals.  All mean measures are denoted with 'mean()'.  All standard deviation measures are denoted with 'std()'. 
+
+ tBodyAcc-mean()-X	20  
+
+ tBodyAcc-mean()-Y 	20 
+
+ tBodyAcc-mean()-Z	20  
+
+ tBodyAcc-std()-X	20  
+
+ tBodyAcc-std()-Y	20  
+
+ tBodyAcc-std()-Z	20  
+
+ tGravityAcc-mean()-X	20  
+
+ tGravityAcc-mean()-Y	20  
+
+ tGravityAcc-mean()-Z	20  
+
+ tGravityAcc-std()-X	20  
+
+ tGravityAcc-std()-Y	20  
+
+ tGravityAcc-std()-Z	20  
+
+ tBodyAccJerk-mean()-X	20  
+
+ tBodyAccJerk-mean()-Y	20  
+
+ tBodyAccJerk-mean()-Z	20  
+
+ tBodyAccJerk-std()-X	20  
+
+ tBodyAccJerk-std()-Y	20  
+
+ tBodyAccJerk-std()-Z	20  
+
+ tBodyGyro-mean()-X		20  
+
+ tBodyGyro-mean()-Y		20	  
+
+ tBodyGyro-mean()-Z		20  
+
+ tBodyGyro-std()-X		20  
+
+ tBodyGyro-std()-Y		20  
+
+tBodyGyro-std()-Z		20  
+
+ tBodyGyroJerk-mean()-X	20  
+
+ tBodyGyroJerk-mean()-Y	20  
+
+ tBodyGyroJerk-mean()-Z	20  
+
+ tBodyGyroJerk-std()-X	20  
+
+ tBodyGyroJerk-std()-Y	20  
+
+ tBodyGyroJerk-std()-Z	20  
+
+ tBodyAccMag-mean()		20  
+
+ tBodyAccMag-std() 		20 
+
+ tGravityAccMag-mean()	20  
+
+ tGravityAccMag-std()	20  
+
+ tBodyAccJerkMag-mean()	20  
+
+ tBodyAccJerkMag-std()	20  
+
+ tBodyGyroMag-mean()	20  
+
+ tBodyGyroMag-std()		20  
+
+ tBodyGyroJerkMag-mean()	20  
+
+ tBodyGyroJerkMag-std()	20  
+
+ fBodyAcc-mean()-X		20  
+
+ fBodyAcc-mean()-Y		20  
+
+ fBodyAcc-mean()-Z		20  
+
+ fBodyAcc-std()-X		20  
+
+ fBodyAcc-std()-Y		20  
+
+ fBodyAcc-std()-Z		20  
+
+ fBodyAcc-meanFreq()-X	20  
+
+ fBodyAcc-meanFreq()-Y	20  
+
+ fBodyAcc-meanFreq()-Z	20  
+
+ fBodyAccJerk-mean()-X	20  
+
+ fBodyAccJerk-mean()-Y	20  
+
+ fBodyAccJerk-mean()-Z	20  
+
+ fBodyAccJerk-std()-X	20  
+
+ fBodyAccJerk-std()-Y	20  
+
+ fBodyAccJerk-std()-Z	20  
+
+ fBodyAccJerk-meanFreq()-X	20  
+
+ fBodyAccJerk-meanFreq()-Y	20  
+
+ fBodyAccJerk-meanFreq()-Z	20  
+
+ fBodyGyro-mean()-X		20  
+
+ fBodyGyro-mean()-Y		20  
+
+ fBodyGyro-mean()-Z		20  
+
+ fBodyGyro-std()-X		20  
+
+ fBodyGyro-std()-Y		20  
+
+ fBodyGyro-std()-Z		20  
+
+ fBodyGyro-meanFreq()-X	20  
+
+ fBodyGyro-meanFreq()-Y	20  
+
+ fBodyGyro-meanFreq()-Z	20  
+
+ fBodyAccMag-mean()		20  
+
+ fBodyAccMag-std()		20  
+
+ fBodyAccMag-meanFreq()	20  
+
+ fBodyBodyAccJerkMag-mean()	20  
+
+ fBodyBodyAccJerkMag-std()	20  
+
+ fBodyBodyAccJerkMag-meanFreq()	20  
+
+ fBodyBodyGyroMag-mean()	20  
+
+ fBodyBodyGyroMag-std()		20  
+
+ fBodyBodyGyroMag-meanFreq()	20  
+
+ fBodyBodyGyroJerkMag-mean()	20  
+
+ fBodyBodyGyroJerkMag-std()	20  
+
+ fBodyBodyGyroJerkMag-meanFreq()	20 
